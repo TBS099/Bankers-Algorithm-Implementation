@@ -95,7 +95,7 @@ Works on any Unix-like system with Bash installed.
 
 ```bash
 .
-├── bankers_algorithm.sh   # Main Bash script
+├── bankers-algorithm-implementation.bash   # Main Bash script
 └── README.md              # Documentation
 ```
 
